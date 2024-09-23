@@ -1,0 +1,132 @@
+/* Your styles here */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eaeeef;
+}
+
+.bg-dark {
+    background-color: #212e3e;
+}
+
+.bg-lightdark {
+    background-color: #364759;
+}
+
+.c-white {
+    color: white;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.c-lightblue {
+    color: #377882;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.d-inline-block {
+    display: inline-block;
+}
+
+.f-1 {
+    font-size: 2em;
+}
+.f-2 {
+    font-size: 1.2em;
+}
+
+.f-3 {
+    font-size: 0.9em;
+}
+
+.mi-auto {
+    margin-inline: auto;
+}
+
+.mie-1 {
+    margin-inline-end: 0.6em;
+}
+
+.w-25 {
+    width: 25%;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.mbe-1 {
+    margin-block-end: 2em;
+} 
+
+.p-1-start {
+    padding: 0.3em 2em;
+}
+
+.p-2-nav-ban {
+    padding-block: 0.5em !important;
+}
+
+.p-3-be-a-gifter-foot {
+    padding: 3em;
+    line-height: 1.5;
+}
+
+header div img {
+    width: 150px;
+    padding-left: 1.8em !important;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-right: 1em;
+}
+
+main {
+    width: 95%;
+}
+
+.alert-banner {
+    background-color: #f56600;
+}
+
+.guides-banner {
+    background-image: url("../images/bg-image.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.images div {
+    padding-block: 1em;
+    padding-inline-start: 1em;
+}
+
+.images .img-container {
+    padding-block-end: 1em;
+    width: 95%;
+}
+
+.images .img-container img {
+    margin-inline: 0.5%;
+    width: 23%;
+    height: 200px; 
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+footer div:first-of-type {
+    text-decoration-line: underline;
+}
